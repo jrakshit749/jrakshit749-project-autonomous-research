@@ -1,0 +1,86 @@
+Citations
+
+OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks
+Subjects:	Computer Vision and Pattern Recognition (cs.CV)
+Cite as:	arXiv:1312.6229 [cs.CV]
+ 	(or arXiv:1312.6229v4 [cs.CV] for this version)
+
+Very Deep Convolutional Networks for Large-Scale Image Recognition
+Subjects:	Computer Vision and Pattern Recognition (cs.CV)
+Cite as:	arXiv:1409.1556 [cs.CV]
+ 	(or arXiv:1409.1556v6 [cs.CV] for this version)
+
+Rich feature hierarchies for accurate object detection and semantic segmentation
+Subjects:	Computer Vision and Pattern Recognition (cs.CV)
+Cite as:	arXiv:1311.2524 [cs.CV]
+ 	(or arXiv:1311.2524v5 [cs.CV] for this version)
+
+GoogleNet model
+Going Deeper with Convolutions
+Subjects:	Computer Vision and Pattern Recognition (cs.CV)
+Cite as:	arXiv:1409.4842 [cs.CV]
+ 	(or arXiv:1409.4842v1 [cs.CV] for this version)
+
+YOLO: https://arxiv.org/pdf/1506.02640.pdf
+YOLOv2 and YOLO9000: https://arxiv.org/pdf/1612.08242.pdf
+YOLOv3:https://arxiv.org/pdf/1804.02767.pdfYOLO, YOLOv2 and
+
+YOLOv4: Optimal Speed and Accuracy of Object Detection
+Subjects:	Computer Vision and Pattern Recognition (cs.CV); Image and Video Processing (eess.IV)
+Cite as:	arXiv:2004.10934 [cs.CV]
+ 	(or arXiv:2004.10934v1 [cs.CV] for this version)
+
+PP-YOLO: An Effective and Efficient Implementation of Object Detector
+Subjects:	Computer Vision and Pattern Recognition (cs.CV)
+Cite as:	arXiv:2007.12099 [cs.CV]
+ 	(or arXiv:2007.12099v3 [cs.CV] for this version)
+
+You Only Look Once: Unified, Real-Time Object Detection v5
+Subjects:	Computer Vision and Pattern Recognition (cs.CV)
+Cite as:	arXiv:1506.02640 [cs.CV]
+ 	(or arXiv:1506.02640v5 [cs.CV] for this version)
+
+You Only Look Once: Unified, Real-Time Object Detection v4
+Subjects:	Computer Vision and Pattern Recognition (cs.CV)
+Cite as:	arXiv:1506.02640 [cs.CV]
+ 	(or arXiv:1506.02640v4 [cs.CV] for this version)
+
+You Only Look Once: Unified, Real-Time Object Detection v3
+Subjects:	Computer Vision and Pattern Recognition (cs.CV)
+Cite as:	arXiv:1506.02640 [cs.CV]
+ 	(or arXiv:1506.02640v3 [cs.CV] for this version)
+
+You Only Look Once: Unified, Real-Time Object Detection v2
+Subjects:	Computer Vision and Pattern Recognition (cs.CV)
+Cite as:	arXiv:1506.02640 [cs.CV]
+ 	(or arXiv:1506.02640v2 [cs.CV] for this version)
+
+
+You Only Look Once: Unified, Real-Time Object Detection v1
+Subjects:	Computer Vision and Pattern Recognition (cs.CV)
+Cite as:	arXiv:1506.02640 [cs.CV]
+ 	(or arXiv:1506.02640v1 [cs.CV] for this version)
+
+Deep Residual Learning for Image Recognition                                             [ResNet]
+Subjects:	Computer Vision and Pattern Recognition (cs.CV)
+Cite as:	arXiv:1512.03385 [cs.CV]
+ 	(or arXiv:1512.03385v1 [cs.CV] for this version)
+
+Object Detection sing Color Masking
+https://medium.com/globant/maneuvering-color-mask-into-object-detection-fce61bf891d1
+
+Deep Neural Networks for Object Detection
+https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41457.pdf
+
+Building Open CV from source
+https://docs.opencv.org/master/d5/de5/tutorial_py_setup_in_windows.html
+
+Focal Loss for Dense Object Detection  [for image in (2.1)yolo v3 object detection]
+Subjects:	Computer Vision and Pattern Recognition (cs.CV)
+Cite as:	arXiv:1708.02002 [cs.CV]
+ 	(or arXiv:1708.02002v2 [cs.CV] for this version)
+
+YOLOv3: An Incremental Improvement
+Subjects:	Computer Vision and Pattern Recognition (cs.CV)
+Cite as:	arXiv:1804.02767 [cs.CV]
+ 	(or arXiv:1804.02767v1 [cs.CV] for this version)
